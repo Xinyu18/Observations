@@ -1,7 +1,7 @@
 # Ground-based SO₂ Observation Data
 
 ## 📌 Description
-This repository contains the ground-based SO₂ observation data used in the study **"[Inversion of a near real time China gridded hourly SO₂ Emission inventory Using Deep Learning Combined with 3D Variational Assimilation]"**. The dataset consists of raw station measurements and quality-controlled observations for 3DVar assimilation.
+This repository contains the ground-based SO₂ observation data used in the study **"[Inversion of a Near-Real-Time China Gridded Hourly SO₂ Emission Inventory Using Deep Learning Combined with 3D Variational Assimilation]"**. The dataset consists of raw station measurements and quality-controlled observations for 3DVar assimilation.
 
 ## 📁 Data Structure
 The data is organized into two main folders:
@@ -28,7 +28,7 @@ The data is organized into two main folders:
 
 ## 📖 Citation & License
 If you use this dataset, please cite the following sources:  
-- 📄 Your paper: **"[Inversion of a near real time China gridded hourly SO₂ Emission inventory Using Deep Learning Combined with 3D Variational Assimilation]"**  
+- 📄 Your paper: **"[Inversion of a Near-Real-Time China Gridded Hourly SO₂ Emission Inventory Using Deep Learning Combined with 3D Variational Assimilation]"**  
 - 📄 CNEMC data source  
 - 📄 Quality control reference: **Chen, D., Liu, Z., Ban, J., & Chen, M. (2019). The 2015 and 2016 wintertime air pollution in China: SO2 emission changes derived from a WRF-Chem/EnKF coupled data assimilation system. Atmospheric Chemistry and Physics, 19(13), 8619–8650. https://doi.org/10.5194/acp-19-8619-2019**  
 
